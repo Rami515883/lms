@@ -4,7 +4,6 @@
       "command": "npx",
       "args": ["-y", "@ycse/nanobanana-mcp"],
       "env": {
-        "GOOGLE_AI_API_KEY": "${GOOGLE_AI_API_KEY}",
         "NANOBANANA_MODEL": "gemini-3.1-flash-image-preview"
       }
     }
